@@ -8,4 +8,7 @@ Dependencies: Use tensorflow 2.12 and keras 2.11 version and upgrade your gcc to
 TECH STACK:
 1) PYTHON
 2) QISKIT
+
+
+
 IT IS STILL A WORK IN PROGRESS.
